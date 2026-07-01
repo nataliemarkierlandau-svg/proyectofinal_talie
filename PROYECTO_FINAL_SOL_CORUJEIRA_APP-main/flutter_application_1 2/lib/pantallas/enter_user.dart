@@ -50,7 +50,7 @@ class _EnterUserState extends State<EnterUser> {
           MaterialPageRoute(
             builder: (context) => Bienvenida(
               username: username,
-              mail: mail,
+              mail: mail, // sapeee
             ),
           ),
         );
